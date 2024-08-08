@@ -1,3 +1,3 @@
 # My-Angular-JS-Repo
-<B> AUTHOR:
+<B> AUTHOR: </B>
 MUSTAFA TEJUN kANCHWALA <BR>
